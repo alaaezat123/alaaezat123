@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4N2RlYzVjZ3V6Y2R0ZzN4Z2VqY2Z6Y2R0ZzN4Z2VqY2Z6Y2R0ZzN4Zw==/giphy.gif" width="100%" alt="Alaa Zedan - Senior Full Stack Developer"/>
+  <img src="https://svgur.com/i/15xq.svg" width="80%" alt="Alaa Zedan - Code Architect"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Zedan</h1>
