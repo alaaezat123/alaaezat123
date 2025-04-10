@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
-       width="650" 
-       loading="lazy" 
-       alt="Modern Coding Animation"/>
-</p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" 
+       width="680"
+       loading="lazy"
+       style="border-radius: 12px;
+              border: 2px solid #2b2d42;
+              box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease;"
+       alt="AI Coding Animation"
+       title="My Development Environment">
+</div>
 <h1 align="center"> I'm Alaa Zedan</h1>
 <h3 align="center">Senior Full Stack Engineer | React & Django Specialist | Cloud Solutions Architect</h3>
 
