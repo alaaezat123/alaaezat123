@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="600" alt="Coding Animation"/>
+  <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
+       width="650" 
+       loading="lazy" 
+       alt="Modern Coding Animation"/>
 </p>
-
 <h1 align="center"> I'm Alaa Zedan</h1>
 <h3 align="center">Senior Full Stack Engineer | React & Django Specialist | Cloud Solutions Architect</h3>
 
