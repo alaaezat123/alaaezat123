@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KgGDu5u.png" alt="Alaa Zedan - Fullstack Developer Banner" width="100%"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Zedan</h1>
@@ -104,4 +104,3 @@ I thrive in collaborative environments and believe in:
   <em>"First, solve the problem. Then, write the code." — John Johnson</em>
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
