@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://svgur.com/i/15xq.svg" width="80%" alt="Alaa Zedan - Code Architect"/>
+  <svg width="800" height="100" viewBox="0 0 800 100">
+    <!-- مهارات تتحرك من اليسار لليمين -->
+    <text x="-200" y="50" font-family="Arial" font-size="24" fill="#61DAFB">React</text>
+    <text x="800" y="80" font-family="Arial" font-size="24" fill="#092E20">Django</text>
+  </svg>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Zedan</h1>
