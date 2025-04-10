@@ -1,12 +1,8 @@
 <p align="center">
-  <svg width="800" height="100" viewBox="0 0 800 100">
-    <!-- مهارات تتحرك من اليسار لليمين -->
-    <text x="-200" y="50" font-family="Arial" font-size="24" fill="#61DAFB">React</text>
-    <text x="800" y="80" font-family="Arial" font-size="24" fill="#092E20">Django</text>
-  </svg>
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="600" alt="Coding Animation"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Alaa Zedan</h1>
+<h1 align="center"> I'm Alaa Zedan</h1>
 <h3 align="center">Senior Full Stack Engineer | React & Django Specialist | Cloud Solutions Architect</h3>
 
 <p align="center">
